@@ -7,8 +7,8 @@
     tools:context=".TestActivity">
 
     <androidx.fragment.app.FragmentContainerView
-        android:id="@+id/fragmentContainerView"
-        android:name="edu.temple.flossplayer.audlibtest.PlayerControlFragment"
+        android:id="@+id/bookStatusContainer"
+        android:name="edu.temple.flossplayer.audlibtest.BookStatusFragment"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
