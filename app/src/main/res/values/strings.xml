@@ -2,4 +2,7 @@
     <string name="app_name">Floss Player Test</string>
 <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="play_string">Play</string>
+    <string name="pause_string">Pause</string>
+    <string name="now_playing_format_string">Now Playing: %s</string>
 </resources>
